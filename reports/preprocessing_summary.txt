@@ -1,0 +1,7 @@
+NHOM 17 - PREPROCESSING SUMMARY
+So dong ban dau: 1599
+So dong trung lap da loai: 240
+So dong sau xu ly: 1359
+So dac trung: 11
+So mau train: 1087
+So mau test: 272
